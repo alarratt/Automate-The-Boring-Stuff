@@ -1,0 +1,35 @@
+1. Operatoer vs. value
+    * : operator
+    'hello' - value
+    -88.8 : value
+    - : Operater
+    / : operator
+    + : operator
+    5 : value
+    spam : value
+    'spam' : value
+
+2. what's a variable, and what's a string?
+    spam : variable
+    'spam' : string
+
+3. 3 Data types
+    float, integer, string
+
+4. What is an expression made up of? What do all expressions do?
+    made of values and operators
+    can always evaluate down to a single value
+
+5. What is the difference between an expression and a statement?
+    Statement is a complete block of code and is stacked vertically
+    expression is a command, and can be stacked horizontally
+    statements : if, elif, else:, for ___ in ___, while, etc
+    expressions : 2+2, min(2,2), max(), "foo" "bar"
+6. 21
+
+
+8. eggs- okay, while 100 starts with a number
+
+9. str() makes trings, int() makes integers, float() makes floats
+
+10. You  can't add different data types. 
